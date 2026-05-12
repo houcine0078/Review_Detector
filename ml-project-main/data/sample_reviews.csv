@@ -1,0 +1,32 @@
+review,sentiment
+"Le produit est excellent et de grande qualité.",positive
+"Vraiment une expérience exceptionnelle, je recommande vivement.",positive
+"J'ai adoré ce film, les acteurs étaient incroyables.",positive
+"La livraison a été rapide et le produit fonctionne bien.",positive
+"Le service client a été très compréhensif et réactif.",positive
+"Je suis ravi de mon achat, la qualité est au rendez‑vous.",positive
+"Très bon produit, je l'adore.",positive
+"Le design est magnifique et l'utilisation simple.",positive
+"La qualité dépasse mes attentes.",positive
+"Service exceptionnel, je reviendrai.",positive
+"Je ne suis pas satisfait du produit, il est arrivé endommagé.",negative
+"C'est un produit médiocre qui ne tient pas ses promesses.",negative
+"Le restaurant était sale et le personnel impoli.",negative
+"Le produit est arrivé cassé, très déçu.",negative
+"Le support technique n'a pas résolu mon problème.",negative
+"Très mauvaise expérience, je ne recommande pas.",negative
+"Service client inexistant et produit défectueux.",negative
+"Produit de piètre qualité, à éviter.",negative
+"Déçu par la marque, c'est de la mauvaise fabrication.",negative
+"C'est une arnaque totale, très mécontent.",negative
+"Le service était correct sans plus.",neutral
+"L'expérience était acceptable, ni bonne ni mauvaise.",neutral
+"Je trouve ce produit moyen, rien d'exceptionnel.",neutral
+"C'était correct, sans rien d'exceptionnel.",neutral
+"Expérience moyenne, ni bonne ni mauvaise.",neutral
+"Produit convenable, mais sans surprise.",neutral
+"Pas mal, mais pas extraordinaire non plus.",neutral
+"Le produit remplit sa fonction, rien de plus.",neutral
+"Avis mitigé, certains aspects sont corrects.",neutral
+"C'est simplement acceptable.",neutral
+"Le produit est de qualité moyenne, mais le service client est excellent.",neutral
